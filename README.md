@@ -3,5 +3,5 @@
 Go common libraries
 
 ```bash
-go get github.com/p-program/go-common-library
+go get -u github.com/p-program/go-common-library
 ```
